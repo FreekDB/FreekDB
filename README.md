@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreekDB
 - 👀 I’m interested in programming and creative coding.
-- 🌱 I’m currently enjoying learning Kotlin.
+- 🌱 I’m currently enjoying using Kotlin to build an app (Android first, multiplatform later).
 - 💞️ I’m looking to collaborate on cool creative coding projects (for example in Processing).
 
 <!---
